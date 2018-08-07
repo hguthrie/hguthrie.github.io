@@ -47,7 +47,7 @@ After running the script at the command line, you can install any required exten
 
 If you have Ruby installed on the workstation, then you can skip this installation.
 
-1.  In the CMD, install the ruby extension:
+1.  In the CMD console, install the ruby extension:
 
     ```cmd
     choco install ruby
@@ -55,8 +55,8 @@ If you have Ruby installed on the workstation, then you can skip this installati
 
 1.  Verify the environment variables were added properly:
 
-    In the Windows UI, open search and type `path`.
-    In the Windows CMD console, type `echo %path%`.
+    -  In the Windows UI, open search and type `path`.
+    -  In the Windows CMD console, type `echo %path%`.
 
 >  **NOTE**  
 >  If you encounter problems with ruby, or the `gem` command is not recognized, you can install the `rubyinstaller-devkit.exe` development kit located in the `c:\ProgramData\chocolatey\bin` folder.
