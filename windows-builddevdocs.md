@@ -29,17 +29,24 @@ Open the Git Setup file downloaded from the Git for Windows site and use the fol
 1.  Follow the [Generating a new SSH](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) instructions.
 
 ## Install Chocolatey
+Only Administrators can use Chocolatey features.
 
-[Install Chocolatey](https://chocolatey.org/install) using the CMD:
+1.  Open the command prompt as an Administrator.
 
-```cmd
-@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-```
+1.  [Install Chocolatey](https://chocolatey.org/install).
 
-Verify Chocolatey was added to the environment variables:
+    ```cmd
+    @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+    ```
 
--  In the Windows UI, open search and type `path`.
--  In the Windows CMD console, type `echo %path%`.
+1.  Verify Chocolatey was added to the environment variables:
+
+    -  In the Windows UI, open search and type `path`.
+    -  In the Windows CMD console, type `echo %path%`.
+    
+    You should see `C:\ProgramData\chocolatey\bin` in the path.
+
+1.  Close and reopen the command prompt before using `choco` commands.
 
 After running the script at the command line, you can install any required extensions. Chocolately has many extensions available, similar to Homebrew for Mac OS. As a best practice, only use extensions labeled as a "trusted package".
 
