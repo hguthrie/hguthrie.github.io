@@ -16,6 +16,8 @@ Open the Git Setup file downloaded from the Git for Windows site and use the fol
 -  select your preferred editor (can use Nano, Notepad++, or VIM)
 -  select **Enable symbolic links**
 
+Although you can install Git using Chocolatey, I chose Git for Windows because of how it integrates into the Windows menus.
+
 ### Set up SSH key
 
 1.  Open Git Bash.
