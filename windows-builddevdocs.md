@@ -16,7 +16,7 @@ Open the Git Setup file downloaded from the Git for Windows site and use the fol
 -  select your preferred editor (can use Nano, Notepad++, or VIM)
 -  select **Enable symbolic links**
 
-Although you can install Git using Chocolatey, I chose Git for Windows because of how it integrates into the Windows menus.
+Although you can install Git using Chocolatey, I chose to install Git for Windows independently for more control of the installation settings.
 
 ### Set up SSH key
 
@@ -31,9 +31,9 @@ Although you can install Git using Chocolatey, I chose Git for Windows because o
 1.  Follow the [Generating a new SSH](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) instructions.
 
 ## Install Chocolatey
-Only Administrators can use Chocolatey features.
+Only Administrators can use Chocolatey features. You can use the Administrator account, or you can use the "Run as Administror" function.
 
-1.  Open the Command Prompt (Admin).
+1.  Open the **Command Prompt** for the Administrator account or select **Run as Administrator** in the shortcut menu.
 
 1.  [Install Chocolatey](https://chocolatey.org/install).
 
