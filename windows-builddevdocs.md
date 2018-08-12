@@ -33,7 +33,7 @@ Although you can install Git using Chocolatey, I chose Git for Windows because o
 ## Install Chocolatey
 Only Administrators can use Chocolatey features.
 
-1.  Open the command prompt as an Administrator.
+1.  Open the Command Prompt (Admin).
 
 1.  [Install Chocolatey](https://chocolatey.org/install).
 
