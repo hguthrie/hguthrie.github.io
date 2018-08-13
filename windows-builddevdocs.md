@@ -6,9 +6,9 @@ Download software:
 -  [Chocolatey](https://chocolatey.org/install)
 
 ## Install Chocolatey
-Only Administrators can use Chocolatey features. You can use the Administrator account, or you can use the "Run as Administror" function.
+Only Administrators can use Chocolatey features. You can use the Administrator account, or you can use the "Run as Administror" function on the shortcut menu.
 
-1.  Open the **Command Prompt** for the Administrator account or select **Run as Administrator** in the shortcut menu.
+1.  Open the **Command Prompt** using **Run as Administrator** in the shortcut menu.
 
 1.  [Install Chocolatey](https://chocolatey.org/install).
 
@@ -31,7 +31,9 @@ After running the script at the command line, you can install any required exten
 
 If you have Ruby installed on the workstation, then you can skip this installation.
 
-1.  In the CMD console, install the ruby extension:
+1.  Open the **Command Prompt** using **Run as Administrator** in the shortcut menu.
+
+1.  Install the ruby extension:
 
     ```cmd
     choco install ruby
@@ -60,7 +62,7 @@ Although you can install Git using Chocolatey, I chose to install _Git for Windo
 
 ### Set up SSH key
 
-1.  Open Git Bash.
+1.  Open Git Bash. The Git Bash command is on the shortcut menu.
 
 1.  Create a working directory for Git repositories and change to the new directory.
 
