@@ -5,31 +5,6 @@ Download software:
 -  [Git for Windows](https://gitforwindows.org)
 -  [Chocolatey](https://chocolatey.org/install)
 
-## Install Git for Windows
-
-Use Git for Windows to prevent interference with existing Windows environment and to have Git launch commands available on the shortcut menu.
-
-Open the Git Setup file downloaded from the Git for Windows site and use the following settings during installation:
-
--  select **Use Git from Git Bash only**
--  select **Checkout as-is, commit Unix-style line endings**
--  select your preferred editor (can use Nano, Notepad++, or VIM)
--  select **Enable symbolic links**
-
-Although you can install Git using Chocolatey, I chose to install Git for Windows independently for more control of the installation settings.
-
-### Set up SSH key
-
-1.  Open Git Bash.
-
-1.  Create a working directory for Git repositories and change to the new directory.
-
-    ```bash
-    mkdir <directory-name>
-    ```
-
-1.  Follow the [Generating a new SSH](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) instructions.
-
 ## Install Chocolatey
 Only Administrators can use Chocolatey features. You can use the Administrator account, or you can use the "Run as Administror" function.
 
@@ -50,7 +25,7 @@ Only Administrators can use Chocolatey features. You can use the Administrator a
 
 1.  Close and reopen the command prompt before using `choco` commands.
 
-After running the script at the command line, you can install any required extensions. Chocolately has many extensions available, similar to Homebrew for Mac OS. As a best practice, only use extensions labeled as a "trusted package".
+After running the script at the command line, you can install any required extensions. Chocolately has many extensions available, similar to Homebrew for MacOS. As a best practice, only use extensions labeled as a "trusted package". You can install editors, such as Nano and Notepad++, using Chocolatey, as well.
 
 ### Install Ruby extension
 
@@ -70,13 +45,39 @@ If you have Ruby installed on the workstation, then you can skip this installati
 >  **NOTE**  
 >  If you encounter problems with ruby, or the `gem` command is not recognized, you can install the `rubyinstaller-devkit.exe` development kit located in the `c:\ProgramData\chocolatey\bin` folder.
 
-## Connect the repository
+## Install Git for Windows
 
-You may have to close and reopen the Git Bash application after the Choco installations.
+Use Git for Windows to prevent interference with existing Windows environment and to have Git launch commands available on the shortcut menu.
+
+Open the Git Setup file downloaded from the Git for Windows site and use the following settings during installation wizard:
+
+-  select **Use Git from Git Bash only**
+-  select **Checkout as-is, commit Unix-style line endings**
+-  select your preferred editor (can use Nano, Notepad++, or VIM)
+-  select **Enable symbolic links**
+
+Although you can install Git using Chocolatey, I chose to install _Git for Windows_ independently for more control of the installation settings.
+
+### Set up SSH key
 
 1.  Open Git Bash.
 
-1.  In the directory you created for Git repositories, clone the DevDocs repository.
+1.  Create a working directory for Git repositories and change to the new directory.
+
+    ```bash
+    mkdir <directory-name>
+    ```
+
+1.  Follow the [Generating a new SSH](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) instructions.
+
+
+## Connect to the DevDocs repository
+
+You may have to close and reopen the Git Bash application after the Choco installations.
+
+1.  Open Git Bash. The Git Bash command is on the shortcut menu.
+
+1.  Change to the directory you created for Git repositories and clone the DevDocs repository.
 
     ```bash
     git clone <devdocs>
@@ -84,13 +85,13 @@ You may have to close and reopen the Git Bash application after the Choco instal
 
 1.  Change to the `devdocs` directory.
 
-1.  Install Bundler.
+1.  Install [Bundler](https://bundler.io).
 
     ```bash
     gem install bundle
     ```
 
-1.  Install gem executables for building the site, such as Jekyll.
+1.  Install gem executables required for building the site.
 
     ```bash
     bundle install
