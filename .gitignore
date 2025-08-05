@@ -3,17 +3,6 @@
 *.code-workspace
 .vscode/
 
-# Ignore compiled binaries
-*.exe
-*.dll
-*.so
-*.dylib
-
-# Ignore build output directories
-/bin/
-/build/
-/dist/
-
 # Ignore package manager directories
 /node_modules/
 /vendor/
@@ -30,14 +19,6 @@
 **/.DS_Store
 Thumbs.db
 .trash
-
-# Ignore packages
-*.7z
-*.dmg
-*.gz
-*.rar
-*.tar
-*.zip
 
 # Ignore build artifacts
 _site/
