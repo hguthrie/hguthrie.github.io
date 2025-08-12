@@ -10,6 +10,8 @@ Mind maps and diagrams are excellent for gathering data, visualizing relationshi
 
 I have used MindNode for years to organize concepts and data. I love the flexibility and visual tracking that mind-mapping exercises provide. The following is a visualization of my resume:
 
+![Mind map visual resume](assets/Resume-2025.svg "HGUTHRIE resume as a mind map")
+
 ## Example using mermaid
 
 Mermaid is a great way to collaborate on diagrams directly in your markdown code. It's not always beautiful, but it's quick and easy and clean.
