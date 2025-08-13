@@ -12,9 +12,9 @@ I have used MindNode for years to organize concepts and data. I love the flexibi
 
 ![Mind map visual resume](assets/Resume-2025.svg "HGUTHRIE resume as a mind map")
 
-## Example using mermaid
+## Experience using mermaid
 
-Mermaid is a great way to collaborate on diagrams directly in your markdown code. It's not always beautiful, but it's quick and easy and clean.
+Mermaid is a great way to collaborate on diagrams directly in your markdown code. While not always beautiful, it is quick and easy to edit while writing in markdown.
 
 ```mermaid
 timeline
