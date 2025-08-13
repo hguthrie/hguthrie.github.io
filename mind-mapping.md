@@ -14,7 +14,7 @@ I have used MindNode for years to organize concepts and data. I love the flexibi
 
 ## Example using mermaid
 
-Mermaid is a great way to collaborate on diagrams directly in your markdown code. It's not always beautiful, but it's quick and easy and clean.
+Mermaid is a great way to collaborate on diagrams directly in your markdown code. It is not always beautiful, but it is quick and easy to edit while writing in markdown.
 
 ```mermaid
 timeline
