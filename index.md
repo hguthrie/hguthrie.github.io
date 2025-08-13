@@ -24,7 +24,7 @@ The following list of experience includes links to GitHub repositories in which 
 
 Develop documentation for the GenStudio for Performance Marketing product, crafting user guidance, prompt examples, and source materials designed to support both user understanding and LLM training. Partner with engineers and AI trainers to structure and optimize content used for chatbot development, while managing version-controlled documentation repositories and iterating on content strategy for emerging product features.
 
-- [genstudio-for-performance-marketing](https://github.com/AdobeDocs/genstudio-for-performance-marketing.en)
+- [genstudio-for-performance-marketing](https://github.com/AdobeDocs/genstudio-for-performance-marketing.en)—Code for the [GenStudio for Performance Marketing Guide](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home).
 
 ### Lead Technical Writer, Adobe Commerce
 
@@ -32,9 +32,9 @@ Develop documentation for the GenStudio for Performance Marketing product, craft
 
 Following Magento’s acquisition by Adobe, continued to document the Commerce Cloud product as it transitioned into the Adobe Commerce Cloud platform service and mentor new writers.
 
-- [commerce-cloud-tools](https://github.com/AdobeDocs/commerce-cloud-tools)
-- [commerce-on-cloud.en](https://github.com/AdobeDocs/commerce-on-cloud.en) (content, before repository was moved or renamed)
-- [commerce-operations.en](https://github.com/AdobeDocs/commerce-operations.en) (mainly worked in the [Configuration Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/overview))
+- [commerce-cloud-tools](https://github.com/AdobeDocs/commerce-cloud-tools)—Code for the [Commerce Cloud Tools portal](https://developer.adobe.com/commerce/cloud-tools/) and the [Cloud Docker for Commerce Guide](https://developer.adobe.com/commerce/cloud-tools/docker/).
+- [commerce-on-cloud.en](https://github.com/AdobeDocs/commerce-on-cloud.en)—Code for the [Commerce on Cloud Infrastructure Guide](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview), before the repository was moved or renamed.
+- [commerce-operations.en](https://github.com/AdobeDocs/commerce-operations.en)—I worked specifically in the [Configuration Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/overview).
 
 ### Senior Technical Writer, Magento
 
@@ -42,4 +42,4 @@ Following Magento’s acquisition by Adobe, continued to document the Commerce C
 
 Documented cloud configuration processes and deployment procedures for hosting the Magento e-commerce application on a cloud platform. Created clear, technical documentation to support go-live readiness and ongoing site management.
 
-- [devdocs](https://github.com/magento-commerce/devdocs)
+- [devdocs](https://github.com/magento-commerce/devdocs)—I worked in the Cloud Guide, before it migrated to Adobe Docs system.
