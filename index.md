@@ -8,7 +8,7 @@ description: Welcome to HGUTHRIE pages on GitHub.
 
 I am an accomplished technical writer and content strategist specializing in emerging technologies, including generative AI. My recent experience focused on creating documentation for an AI platform while helping plan content frameworks that directly support chatbot training and prompt engineering. I combine clear communication with systems thinking—translating complex concepts into usable, scalable content for both people and machines.
 
-I am interested in remote or hybrid roles in software development. I am industry-flexible and love becoming a subject matter expert with the products that I encounter. I have a lot of corporate enterprise experience that I am thrilled to share with a small to medium company. I look forward to building trust and helping shape content strategy for the future.
+I am interested in remote or hybrid roles in software development. I am industry-flexible, and I have solid experience in startups and corporations. I love becoming a subject matter expert with the products that I encounter. I am thrilled to share my enterprise experience with a small to medium company. I look forward to building trust and helping shape content strategy for the future.
 
 I love to use [mind-mapping](mind-mapping.md) as I research and build strategies. It makes it much easier for others to share and contribute to my designs.
 

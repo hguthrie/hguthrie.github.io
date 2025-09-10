@@ -4,7 +4,7 @@ title: Mind maps and diagrams
 description: I love to use mind-mapping techniques to visualize content and connections.
 ---
 
-Mind maps and diagrams are excellent for gathering data, visualizing relationships, and forming ideas.
+Mind maps and diagrams are excellent for gathering data, visualizing relationships, and forming ideas. In a product that may seem confusing at first, mind maps can help sort out the connections to certain states, decision trees, process flows, and information sources. It can help to identify crucial pathways for goal-oriented documentation, potentially enhancing the overall user experience.
 
 ## MindNode resume
 
@@ -14,7 +14,7 @@ I have used MindNode for years to organize concepts and data. I love the flexibi
 
 ## Experience using mermaid
 
-Mermaid is a great way to collaborate on diagrams directly in your markdown code. While not always beautiful, it is quick and easy to edit while writing in markdown.
+Mermaid is a great way to collaborate on diagrams directly in your markdown code, especially if your content is open source. While not always beautiful, it is quick and easy to edit while writing in markdown.
 
 ```mermaid
 timeline
