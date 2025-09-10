@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HGUTHRIE
-description: Welcome to HGUTHRIE pages on GitHub.
+description: Lead Technical Writer, Content Strategist, Intelligence Writer
 ---
 
 ## Profile
