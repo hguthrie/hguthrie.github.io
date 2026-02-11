@@ -8,11 +8,15 @@ description: Lead Technical Writer, Content Strategist, Intelligence Writer
 
 I am an accomplished technical writer and content strategist specializing in emerging technologies, including generative AI. My recent experience focused on creating documentation for an AI platform while helping plan content frameworks that directly support chatbot training and prompt engineering. I combine clear communication with systems thinking—translating complex concepts into usable, scalable content for both people and machines.
 
-I am interested in remote or hybrid roles in software development. I am industry-flexible, and I have solid experience in startups and corporations. I love becoming a subject matter expert with the products that I encounter. I am thrilled to share my enterprise experience with a small to medium company. I look forward to building trust and helping shape content strategy for the future.
-
-I love to use [mind-mapping](mind-mapping.md) as I research and build strategies. It makes it much easier for others to share and contribute to my designs.
+I am interested in remote or hybrid roles in content strategy and software development. I am industry-flexible, and I have solid experience in startups and corporations. I love becoming a subject matter expert with the products that I encounter. I am thrilled to share my enterprise experience with a small to medium company. I look forward to building trust and helping shape content strategy for the future.
 
 ## Enterprise Portfolio
+
+I use mind maps as I research and build content connections and strategies. It makes it much easier for others to visualize, share, and sometimes contribute to my planning. See a couple of my examples in [Mind maps and diagrams](mind-mapping.md).
+
+I enjoy working with GitHub, and have for more than 10 years. I am very experienced in establishing content repositories, guardrails, and processes for team contributions.
+
+![GitHub Game: Space Shooter](game.gif "Space shooter with my contribution grid")
 
 I served as an administrator or contributed as an active participant in following GitHub repositories.
 
