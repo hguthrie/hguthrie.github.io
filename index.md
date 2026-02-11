@@ -14,11 +14,11 @@ I am interested in remote or hybrid roles in content strategy and software devel
 
 I use mind maps as I research and build content connections and strategies. It makes it much easier for others to visualize, share, and sometimes contribute to my planning. See a couple of my examples in [Mind maps and diagrams](mind-mapping.md).
 
-I enjoy working with GitHub, and have for more than 10 years. I am very experienced in establishing content repositories, guardrails, and processes for team contributions.
+I enjoy working with [GitHub](https://github.com/hguthrie), and have for more than 10 years. I am very experienced in establishing content repositories, guardrails, and processes for team contributions.
 
 ![GitHub Game: Space Shooter](game.gif "Space shooter with my contribution grid")
 
-I served as an administrator or contributed as an active participant in following GitHub repositories.
+I served as an administrator or contributed as an active participant in following GitHub repositories:
 
 ### Lead Technical Writer, Adobe GenStudio for Performance Marketing
 

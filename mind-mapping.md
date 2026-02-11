@@ -14,7 +14,7 @@ MindNode is my mind-mapping tool of choice to organize concepts and data. I love
 
 ## Experience using mermaid
 
-Mermaid is a great way to collaborate on diagrams directly in your markdown code, especially if your content is open source. While not always beautiful, it is quick and easy to edit while writing in markdown. The following is a sample timeline using my experience throughout the years:
+Mermaid is a great way to collaborate on diagrams directly in your markdown code, especially if your content is open source. While not always beautiful, it is quick and easy to edit when writing in markdown. The following is a sample timeline using my experience throughout the years:
 
 ```mermaid
 timeline
@@ -30,4 +30,4 @@ timeline
         2024 to 2025 : Adobe GenStudio
 ```
 
-Return [home](index.md).
+Return to [profile](index.md).
