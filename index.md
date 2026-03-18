@@ -44,4 +44,4 @@ Following Magento’s acquisition by Adobe, continued to document the Commerce C
 
 Documented cloud configuration processes and deployment procedures for hosting the Magento e-commerce application on a cloud platform. Created clear, technical documentation to support go-live readiness and ongoing site management.
 
-- [devdocs](https://github.com/magento-commerce/devdocs)—I worked in the Cloud Guide, before it migrated to Adobe Docs system.
+- [Magento Developer Docs](https://github.com/magento-commerce/devdocs)—I worked in the Cloud Guide, before it migrated to Adobe Docs system.
