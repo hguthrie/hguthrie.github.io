@@ -20,8 +20,6 @@ I served as an administrator or contributed as an active participant in followin
 
 ### Lead Technical Writer, Adobe GenStudio for Performance Marketing
 
-**2024–Present**
-
 Develop documentation for the GenStudio for Performance Marketing product, crafting user guidance, prompt examples, and source materials designed to support both user understanding and LLM training. Partner with engineers and AI trainers to structure and optimize content used for chatbot development, while managing version-controlled documentation repositories and iterating on content strategy for emerging product features.
 
 - [GenStudio for Performance Marketing Guide](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home).
@@ -29,8 +27,6 @@ Develop documentation for the GenStudio for Performance Marketing product, craft
   Code repository: [genstudio-for-performance-marketing](https://github.com/AdobeDocs/genstudio-for-performance-marketing.en)
 
 ### Lead Technical Writer, Adobe Commerce and Commerce Cloud platform
-
-**2018—2024**
 
 Following Magento’s acquisition by Adobe, continued to document the Commerce Cloud product as it transitioned into the Adobe Commerce Cloud platform service and mentor new writers.
 
@@ -40,15 +36,13 @@ Following Magento’s acquisition by Adobe, continued to document the Commerce C
 
 - [Commerce on Cloud Infrastructure Guide](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview), before the repository was moved or renamed.
 
-   Code repository:[commerce-on-cloud.en](https://github.com/AdobeDocs/commerce-on-cloud.en)
+   Code repository: [commerce-on-cloud.en](https://github.com/AdobeDocs/commerce-on-cloud.en)
 
 - [Configuration Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/overview).
 
    Code repository: [commerce-operations.en](https://github.com/AdobeDocs/commerce-operations.en)
 
 ### Senior Technical Writer, Magento
-
-**2017—2018**
 
 Documented cloud configuration processes and deployment procedures for hosting the Magento e-commerce application on a cloud platform. Created clear, technical documentation to support go-live readiness and ongoing site management.
 
