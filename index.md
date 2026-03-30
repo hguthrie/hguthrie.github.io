@@ -16,8 +16,6 @@ I use mind maps as I research and build content connections and strategies. It m
 
 I enjoy working with [GitHub](https://github.com/hguthrie), and have for more than 10 years. I am very experienced in establishing content repositories, guardrails, and processes for team contributions.
 
-![GitHub Game: Space Shooter](game.gif "Space shooter with my contribution grid")
-
 I served as an administrator or contributed as an active participant in following GitHub repositories:
 
 ### Lead Technical Writer, Adobe GenStudio for Performance Marketing
@@ -26,7 +24,9 @@ I served as an administrator or contributed as an active participant in followin
 
 Develop documentation for the GenStudio for Performance Marketing product, crafting user guidance, prompt examples, and source materials designed to support both user understanding and LLM training. Partner with engineers and AI trainers to structure and optimize content used for chatbot development, while managing version-controlled documentation repositories and iterating on content strategy for emerging product features.
 
-- [GenStudio for Performance Marketing Guide](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home). See the [genstudio-for-performance-marketing](https://github.com/AdobeDocs/genstudio-for-performance-marketing.en) code repository.
+- [GenStudio for Performance Marketing Guide](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home).
+
+  Code repository: [genstudio-for-performance-marketing](https://github.com/AdobeDocs/genstudio-for-performance-marketing.en)
 
 ### Lead Technical Writer, Adobe Commerce and Commerce Cloud platform
 
@@ -34,9 +34,17 @@ Develop documentation for the GenStudio for Performance Marketing product, craft
 
 Following Magento’s acquisition by Adobe, continued to document the Commerce Cloud product as it transitioned into the Adobe Commerce Cloud platform service and mentor new writers.
 
-- [Commerce Cloud Tools portal](https://developer.adobe.com/commerce/cloud-tools/) and the [Cloud Docker for Commerce Guide](https://developer.adobe.com/commerce/cloud-tools/docker/). See the [commerce-cloud-tools](https://github.com/AdobeDocs/commerce-cloud-tools) code repository.
-- [Commerce on Cloud Infrastructure Guide](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview), before the repository was moved or renamed. See the [commerce-on-cloud.en](https://github.com/AdobeDocs/commerce-on-cloud.en) code repository.
-- [Configuration Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/overview). See the [commerce-operations.en](https://github.com/AdobeDocs/commerce-operations.en) code repository.
+- [Commerce Cloud Tools portal](https://developer.adobe.com/commerce/cloud-tools/) and the [Cloud Docker for Commerce Guide](https://developer.adobe.com/commerce/cloud-tools/docker/).
+
+   Code repository: [commerce-cloud-tools](https://github.com/AdobeDocs/commerce-cloud-tools)
+
+- [Commerce on Cloud Infrastructure Guide](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview), before the repository was moved or renamed.
+
+   Code repository:[commerce-on-cloud.en](https://github.com/AdobeDocs/commerce-on-cloud.en)
+
+- [Configuration Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/overview).
+
+   Code repository: [commerce-operations.en](https://github.com/AdobeDocs/commerce-operations.en)
 
 ### Senior Technical Writer, Magento
 
