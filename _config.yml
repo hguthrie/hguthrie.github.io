@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-modernist # https://github.com/pages-themes/hacker
+theme: jekyll-theme-modernist # https://github.com/pages-themes/modernist
 remote_theme: pages-themes/modernist@v0.2.0
 mermaid: true
 use_math: true
