@@ -1,6 +1,5 @@
 ---
-theme: jekyll-theme-modernist # https://github.com/pages-themes/modernist
-remote_theme: pages-themes/modernist@v0.2.0
+theme: jekyll-theme-slate # https://github.com/pages-themes/slate
 mermaid: true
 use_math: true
 plugins:

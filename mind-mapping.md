@@ -30,4 +30,4 @@ timeline
         2024 to 2025 : Adobe GenStudio
 ```
 
-Return to [profile](index.md).
+Return to [HGuthrie Portfolio](index.md).
