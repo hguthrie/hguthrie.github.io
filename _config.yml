@@ -1,5 +1,7 @@
 ---
 theme: jekyll-theme-slate # https://github.com/pages-themes/slate
+domain: hguthrie.github.io
+url: https://hguthrie.github.io
 mermaid: true
 use_math: true
 plugins:
