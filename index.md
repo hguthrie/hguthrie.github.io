@@ -16,7 +16,7 @@ I use mind maps as I research and build content connections and strategies. Mind
 
 ![Mind map visual resume](assets/Resume-2025.svg "HGUTHRIE resume as a mind map")
 
-### Experience using mermaid
+<!-- ### Experience using mermaid
 
 Mermaid is a great way to collaborate on diagrams directly in your Markdown code, especially if your content is open source. While not always beautiful, it is quick and easy to edit when writing in Markdown. The following is a sample timeline representing my experience throughout the years:
 
@@ -33,7 +33,7 @@ timeline
         2018 to 2024 : Adobe Commerce
         2024 to 2025 : Adobe GenStudio
 ```
-
+-->
 ## Enterprise Portfolio
 
 I enjoy working with [GitHub](https://github.com/hguthrie), and have for more than 10 years. I am very experienced in a docs-as-code environment.
@@ -42,25 +42,26 @@ I enjoy working with [GitHub](https://github.com/hguthrie), and have for more th
 
 Develop documentation for the GenStudio for Performance Marketing product, crafting user guidance, prompt examples, and source materials designed to support both user understanding and LLM training. Partner with engineers and AI trainers to structure and optimize content used for chatbot development, while managing version-controlled documentation repositories and iterating on content strategy for emerging product features.
 
-- [GenStudio for Performance Marketing Guide](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home).
+Code repository: [genstudio-for-performance-marketing](https://github.com/AdobeDocs/genstudio-for-performance-marketing.en)
 
-  Code repository: [genstudio-for-performance-marketing](https://github.com/AdobeDocs/genstudio-for-performance-marketing.en)
+- [GenStudio for Performance Marketing Guide](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home)
 
 ### Lead Technical Writer for Adobe Commerce and Commerce Cloud platform
 
 Following Magento’s acquisition by Adobe, continued to document the Commerce Cloud product as it transitioned into the Adobe Commerce Cloud platform service and mentor new writers.
 
-- [Commerce Cloud Tools portal](https://developer.adobe.com/commerce/cloud-tools/) and the [Cloud Docker for Commerce Guide](https://developer.adobe.com/commerce/cloud-tools/docker/).
+Code repository: [commerce-cloud-tools](https://github.com/AdobeDocs/commerce-cloud-tools)
 
-   Code repository: [commerce-cloud-tools](https://github.com/AdobeDocs/commerce-cloud-tools)
+- [Commerce Cloud Tools portal](https://developer.adobe.com/commerce/cloud-tools/)
+- [Cloud Docker for Commerce Guide](https://developer.adobe.com/commerce/cloud-tools/docker/)
 
-- [Commerce on Cloud Infrastructure Guide](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview), before the repository was moved or renamed.
+Code repository: [commerce-on-cloud.en](https://github.com/AdobeDocs/commerce-on-cloud.en)
 
-   Code repository: [commerce-on-cloud.en](https://github.com/AdobeDocs/commerce-on-cloud.en)
+- [Commerce on Cloud Infrastructure Guide](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview) (before the repository was moved and renamed)
 
-- [Configuration Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/overview).
+Code repository: [commerce-operations.en](https://github.com/AdobeDocs/commerce-operations.en)
 
-   Code repository: [commerce-operations.en](https://github.com/AdobeDocs/commerce-operations.en)
+- [Configuration Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/overview)
 
 ### Senior Technical Writer for Magento
 
