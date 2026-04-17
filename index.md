@@ -8,32 +8,8 @@ description: Lead Technical Writer, Content Strategist, Intelligence Writer
 
 I am an accomplished technical writer and content strategist specializing in emerging technologies, including generative AI. My recent experience focused on creating documentation for an AI platform while helping plan content frameworks that directly support chatbot training and prompt engineering. I combine clear communication with systems thinking—translating complex concepts into usable, scalable content for both people and machines.
 
-I am interested in remote or hybrid roles in content strategy and software development. I am industry-flexible, and I have solid experience in startups and corporations. I love becoming a subject matter expert with the products that I encounter. I am thrilled to share my enterprise experience with a small to medium company. I look forward to building trust and helping shape content strategy for the future.
+I am interested in remote roles in content strategy and software development. I have solid experience in startups and corporations. I love becoming a subject matter expert with the products that I encounter. I am thrilled to share my enterprise experience with a small to medium company. I am highly organized and ready manage complex projects. I look forward to building trust and helping shape content strategy for the future.
 
-### MindNode resume
-
-I use mind maps as I research and build content connections and strategies. MindNode is my mind-mapping tool of choice to organize concepts and data. I love the flexibility and visual tracking that mind-mapping exercises provide. The following is a visualization of my resume:
-
-![Mind map visual resume](assets/Resume-2025.svg "HGUTHRIE resume as a mind map")
-
-<!-- ### Experience using mermaid
-
-Mermaid is a great way to collaborate on diagrams directly in your Markdown code, especially if your content is open source. While not always beautiful, it is quick and easy to edit when writing in Markdown. The following is a sample timeline representing my experience throughout the years:
-
-```mermaid
-timeline
-    title Experience Timeline
-    section Semiconductor
-    2010 to 2013 : LSI Corporation
-    section Cloud Writer
-        2013 to 2016 : ServiceMesh
-        2016 to 2017 : Cisco
-        2017 to 2018 : Magento
-    section Lead Technical Writer
-        2018 to 2024 : Adobe Commerce
-        2024 to 2025 : Adobe GenStudio
-```
--->
 ## Enterprise Portfolio
 
 I enjoy working with [GitHub](https://github.com/hguthrie), and have for more than 10 years. I am very experienced in a docs-as-code environment.
@@ -68,3 +44,28 @@ Code repository: [commerce-operations.en](https://github.com/AdobeDocs/commerce-
 Documented cloud configuration processes and deployment procedures for hosting the Magento e-commerce application on a cloud platform. Created clear, technical documentation to support go-live readiness and ongoing site management.
 
 - [Magento Developer Docs](https://github.com/magento-commerce/devdocs)—I worked in the Cloud Guide, before it migrated to Adobe Docs system.
+
+## MindNode resume
+
+I use mind maps as I research and build content connections and strategies. MindNode is my mind-mapping tool of choice to organize concepts and data. I love the flexibility and visual tracking that mind-mapping exercises provide. The following is a visualization of my resume:
+
+![Mind map visual resume](assets/Resume-2025.svg "HGUTHRIE resume as a mind map")
+
+<!-- ### Experience using mermaid
+
+Mermaid is a great way to collaborate on diagrams directly in your Markdown code, especially if your content is open source. While not always beautiful, it is quick and easy to edit when writing in Markdown. The following is a sample timeline representing my experience throughout the years:
+
+```mermaid
+timeline
+    title Experience Timeline
+    section Semiconductor
+    2010 to 2013 : LSI Corporation
+    section Cloud Writer
+        2013 to 2016 : ServiceMesh
+        2016 to 2017 : Cisco
+        2017 to 2018 : Magento
+    section Lead Technical Writer
+        2018 to 2024 : Adobe Commerce
+        2024 to 2025 : Adobe GenStudio
+```
+-->
