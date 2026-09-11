@@ -1,8 +1,4 @@
----
-layout: default
-title: HGUTHRIE
-description: Lead Technical Writer, Content Strategist, Intelligence Writer
----
+# HGUTHRIE
 
 ## Profile
 
