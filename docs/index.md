@@ -45,12 +45,6 @@ Documented cloud configuration processes and deployment procedures for hosting t
 
 - [Magento Developer Docs](https://github.com/magento-commerce/devdocs)—I worked in the Cloud Guide, before it migrated to Adobe Docs system.
 
-## MindNode resume
-
-I use mind maps as I research and build content connections and strategies. MindNode is my mind-mapping tool of choice to organize concepts and data. I love the flexibility and visual tracking that mind-mapping exercises provide. The following is a visualization of my resume:
-
-![Mind map visual resume](assets/Resume-2025.svg "HGUTHRIE resume as a mind map")
-
 ### Experience using mermaid
 
 Mermaid is a great way to collaborate on diagrams directly in your Markdown code, especially if your content is open source. While not always beautiful, it is quick and easy to edit when writing in Markdown. The following is a sample timeline representing my experience throughout the years:
