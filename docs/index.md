@@ -52,7 +52,7 @@ Mermaid is a great way to collaborate on diagrams directly in your Markdown code
 ```mermaid
 timeline
     title Experience Timeline
-    section Semiconductor
+    section Semiconductor Writer
     2010 to 2013 : LSI Corporation
     section Cloud Writer
         2013 to 2016 : ServiceMesh
@@ -61,6 +61,6 @@ timeline
     section Lead Technical Writer
         2018 to 2024 : Adobe Commerce
         2024 to 2025 : Adobe GenStudio
-    section Independent
-        2026 : Freelancer
+    section Independent Writer
+        2026 : Freelancer and Non-profit volunteer
 ```
