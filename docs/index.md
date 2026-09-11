@@ -51,7 +51,7 @@ I use mind maps as I research and build content connections and strategies. Mind
 
 ![Mind map visual resume](assets/Resume-2025.svg "HGUTHRIE resume as a mind map")
 
-<!-- ### Experience using mermaid
+### Experience using mermaid
 
 Mermaid is a great way to collaborate on diagrams directly in your Markdown code, especially if your content is open source. While not always beautiful, it is quick and easy to edit when writing in Markdown. The following is a sample timeline representing my experience throughout the years:
 
@@ -67,5 +67,6 @@ timeline
     section Lead Technical Writer
         2018 to 2024 : Adobe Commerce
         2024 to 2025 : Adobe GenStudio
+    section Independent
+        2026 : Freelancer
 ```
--->
